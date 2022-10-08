@@ -1,0 +1,40 @@
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#logo  {
+    display: block;
+    width: 351px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 113px;
+}
+.search{
+    text-align: center;
+    background: #Eeeeee;
+}
+
+article{
+    width: 25%;
+    height: 80px;
+    float: left;
+    text-align: center;
+    margin-top: -12px;
+    margin-bottom: 10px;
+
+}
+.link-1{
+    background: #7EE5DA;
+    width: 37%;
+    margin-left: 5px;
+}
+.link-2{
+    background: #70CCC2;
+    margin-left: 5px;
+}
+.link-3{
+    background: #62B3AA;
+    width: 37%;
+    margin-left: 5px;
+}
