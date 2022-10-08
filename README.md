@@ -2,6 +2,6 @@
 Bu repo [patika.dev](https://patika.dev) platformu CSS dersleri için oluşturulmuştur.
 
 ## Proje Görünümü
-![ss](img/ss.png)
+![ss](img/ss.PNG)
 
 
